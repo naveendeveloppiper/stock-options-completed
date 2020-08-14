@@ -1,0 +1,24 @@
+/* .App {
+	display: flex;
+	justify-content: space-around;
+} */
+.column-50 {
+	display: flex;
+}
+table {
+	border-collapse: collapse;
+}
+
+td,
+th {
+	border: 1px solid #999;
+	padding: 0.5rem;
+	text-align: left;
+}
+table tbody tr {
+	cursor: pointer;
+}
+
+#wrapper #content-wrapper {
+	overflow: hidden;
+}
